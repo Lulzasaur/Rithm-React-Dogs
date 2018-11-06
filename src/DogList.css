@@ -1,0 +1,23 @@
+.DogList img {
+    width: 250px;
+    height:250px;
+    border-radius: 100%;
+    border: 8px solid slateblue;
+    box-shadow: 0 0 10px #9e9e9e;
+    margin:20px;
+  }
+
+h1{
+  text-align:center;
+}
+
+.DogList {
+  display:inline-flex;
+  justify-content:space-around;
+}
+
+.DogContainer {
+  display:inline-block;
+  width:100%;
+}
+  
